@@ -1,7 +1,8 @@
   ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
   ![](https://komarev.com/ghpvc/?username=hamedsj&label=Profile%20Visits&color=yellowgreen&style=flat)
   
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+
+<img src="https://media.giphy.com/media/3o7qDXzmWyT3BgcyGc/giphy.gif" alt="side Image" align="right" width="300" height="auto" />
   
   - 🔭 I’m currently working as a Software Developer with Rajman on ![NeshanMaps](https://play.google.com/store/apps/details?id=org.rajman.neshan.traffic.tehran.navigator).
   - 🌱 I’m trying to become an AI Specialist.
