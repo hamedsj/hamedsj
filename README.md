@@ -5,8 +5,6 @@
 <img src="https://media.giphy.com/media/3o7qDXzmWyT3BgcyGc/giphy.gif" alt="side Image" align="right" width="300" height="auto" />
 
   - 🧑‍🎓 I’m currently studying Artifical Intelligence at Università degli Studi di Milano-Bicocca 
-  - 🔭 I was working as a Software Developer with Rajman on ![NeshanMaps](https://play.google.com/store/apps/details?id=org.rajman.neshan.traffic.tehran.navigator).
-  - 🌱 I’m trying to become an AI Specialist.
   - 💻 I'm currently using Android development as a way for living.
   - ⚡ I'm in love with deep diving into technologies and the math behind them.
   
