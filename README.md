@@ -11,7 +11,4 @@
   #### 📫 How to reach me:
   
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/hamid-reza-shajaravi-187a5a102/) &nbsp;
-  <a href="mailto:hamedsj5@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> &nbsp;
-  [<img src="https://img.icons8.com/fluent/48/000000/telegram-app.png" width="3.5%"/>](https://telegram.me/hamedsj5)  &nbsp;
-  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/hamedsj5/)
-  
+  <a href="mailto:hamedsj5@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
