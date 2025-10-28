@@ -10,5 +10,5 @@
   
   #### 📫 How to reach me:
   
-  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/hamid-reza-shajaravi-187a5a102/) &nbsp;
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/hr-shajaravi/) &nbsp;
   <a href="mailto:hamedsj5@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
