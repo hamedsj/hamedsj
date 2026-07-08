@@ -4,9 +4,9 @@
 
 <img src="https://media.giphy.com/media/3o7qDXzmWyT3BgcyGc/giphy.gif" alt="side Image" align="right" width="300" height="auto" />
 
-  - 🧑‍🎓 I’m currently studying Artifical Intelligence at Università degli Studi di Milano-Bicocca 
   - 💻 I'm currently using Android development as a way for living.
   - ⚡ I'm in love with deep diving into technologies and the math behind them.
+  - 🧩 I've a passion for challenges, problem solving and exploring ideas.
   
   #### 📫 How to reach me:
   
